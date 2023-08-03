@@ -45,7 +45,7 @@
     "react": "^16.3.0"
   },
   "dependencies": {
-    "smooth-dnd": "@krashstudio/smooth-dnd",
+    "@krashstudio/smooth-dnd": "0.12.1",
     "prop-types": ">=15.6.0"
   },
   "bugs": {
