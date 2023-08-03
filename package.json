@@ -29,7 +29,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kutlugsahin/react-smooth-dnd.git"
+    "url": "https://github.com/KrashStudio/react-smooth-dnd.git"
   },
   "devDependencies": {
     "@babel/core": "7.3.4",
