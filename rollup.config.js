@@ -18,6 +18,7 @@ module.exports = {
 			'prop-types': 'PropTypes'
 		}
 	},
+  external: ['react', 'prop-types', '@krashstudio/smooth-dnd'],
 	plugins: [
 		babel({
 			extensions,
